@@ -83,6 +83,13 @@
     "isTreuhand": true,
     "containsAccountId": false
   },
+   {
+    "accountName": "EOS KSI",
+    "recipientName": "EOS KSI",
+    "iban": "DE05672922000059500066",
+    "isTreuhand": true,
+    "containsAccountId": false
+  },
   {
     "accountName": "Riverty",
     "recipientName": "Riverty Services GmbH",

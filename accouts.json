@@ -1,0 +1,142 @@
+[
+    {
+      accountName: "BNP Paribas Niederlassung Deutschland",
+      recipientName: "BNP Paribas Niederlassung Deutschland",
+      iban: "DE23512106000110592052",
+      isTreuhand: false,
+      containsAccountId: false
+    },
+	{
+      accountName: "BNP Paribas Niederlassung Deutschland",
+      recipientName: "BNP Paribas Niederlassung Deutschland",
+      iban: "DE92512106004110114016",
+      isTreuhand: false,
+      containsAccountId: false
+    },
+	{
+      accountName: "Payback Visa BW Bank",
+      recipientName: "BW Bank Kartenservice",
+      iban: "DE61600501010002785574",
+      isTreuhand: false,
+      containsAccountId: false
+    },
+    {
+      accountName: "Santander Visa",
+      recipientName: "Santander Bank",
+      iban: "DE35310108338810011520",
+      isTreuhand: false,
+      containsAccountId: false
+    },
+    {
+      accountName: "Targobank Visa", // Shown as bank label in purpose
+      recipientName: "",                    // -> Recipient falls back to Darlehensnehmer
+      iban: "DE20300209005045090092",
+      isTreuhand: false,
+      containsAccountId: false
+    },
+    {
+      accountName: "COEO Inkasso",
+      recipientName: "COEO Inkasso",
+      iban: "DE39360501050000207159",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+	{
+      accountName: "COEO Inkasso",
+      recipientName: "COEO Inkasso",
+      iban: "DE05360501050003084985",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+    {
+      accountName: "BID Bayerischer Inkasso Dienst GmbH",
+      recipientName: "BID Bayerischer Inkasso Dienst",
+      iban: "DE70783200760001420755",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+	{
+      accountName: "KSP Dr. Seegers",
+      recipientName: "KSP Dr. Seegers",
+      iban: "DE50200700240090263512",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+	{
+      accountName: "Proceed Collection",
+      recipientName: "Proceed Collection Services",
+      iban: "DE50200700240090263512",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+	{
+      accountName: "IKANO Kreditkarte",
+      recipientName: "Ikano Bank AG",
+      iban: "DE59512106004210049054",
+      isTreuhand: false,
+      containsAccountId: false
+    },
+	{
+      accountName: "EOS",
+      recipientName: "EOS Deutscher Inkasso Dienst",
+      iban: "DE14200100200387439209",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+	{
+      accountName: "Riverty",
+      recipientName: "Riverty Services GmbH",
+      iban: "DE34662400020115517500",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+	{
+      accountName: "Berliner Sparkasse",
+      recipientName: "Berliner Sparkasse",
+      iban: "DE74100500009492290003",
+      isTreuhand: false,
+      containsAccountId: false
+    },
+	{
+      accountName: "Stellantis Bank",
+      recipientName: "Stellantis Bank",
+      iban: "DE14500400000600041800",
+      isTreuhand: false,
+      containsAccountId: false
+    },
+	{
+      accountName: "Debitor Inkasso",
+      recipientName: "Debitor Inkasso",
+      iban: "DE35230400220071434504",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+	{
+      accountName: "ProCash",
+      recipientName: "ProCash",
+      iban: "DE37500400000408291301",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+	{
+      accountName: "Sirius Inkasso",
+      recipientName: "Sirius Inkasso GmbH",
+      iban: "DE91300500000001791094",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+	{
+      accountName: "PRA Group",
+      recipientName: "PRA Group Deutschland GmbH",
+      iban: "DE51500400000589417500",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+	{
+      accountName: "Renault Bank",
+      recipientName: "Renault Bank",
+      iban: "DE93370400440500398300",
+      isTreuhand: true,
+      containsAccountId: false
+    },
+  ]

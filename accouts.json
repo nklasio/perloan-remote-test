@@ -76,6 +76,13 @@
     "isTreuhand": false,
     "containsAccountId": false
   },
+   {
+    "accountName": "IKANO Kreditkarte",
+    "recipientName": "Ikano Bank AB",
+    "iban": "DE69512106004110049246",
+    "isTreuhand": false,
+    "containsAccountId": false
+  },
   {
     "accountName": "EOS",
     "recipientName": "EOS Deutscher Inkasso Dienst",

@@ -21,6 +21,13 @@
     "containsAccountId": false
   },
   {
+    "accountName": "Payback Visa Kartenservice",
+    "recipientName": "PAYBACK Visa Kartenservice",
+    "iban": "DE30600501010002785550",
+    "isTreuhand": false,
+    "containsAccountId": false
+  },
+  {
     "accountName": "Santander Visa",
     "recipientName": "Santander Bank",
     "iban": "DE35310108338810011520",

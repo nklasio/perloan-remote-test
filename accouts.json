@@ -14,6 +14,13 @@
     "containsAccountId": false
   },
   {
+    "accountName": "Deutsche Bank AG",
+    "recipientName": "Deutsche Bank AG",
+    "iban": "DE57360700240115006900",
+    "isTreuhand": false,
+    "containsAccountId": false
+  },
+  {
     "accountName": "Payback Visa BW Bank",
     "recipientName": "BW Bank Kartenservice",
     "iban": "DE61600501010002785574",

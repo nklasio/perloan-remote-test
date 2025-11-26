@@ -147,6 +147,13 @@
     "containsAccountId": false
   },
   {
+    "accountName": "Intrum",
+    "recipientName": "Intrum Deutschland GmbH",
+    "iban": "DE89551900000524347044",
+    "isTreuhand": true,
+    "containsAccountId": false
+  },
+  {
     "accountName": "Sirius Inkasso",
     "recipientName": "Sirius Inkasso GmbH",
     "iban": "DE91300500000001791094",

@@ -14,6 +14,13 @@
     "containsAccountId": false
   },
   {
+    "accountName": "Landesjustizkasse Chemnitz",
+    "recipientName": "Landesjustizkasse Chemnitz",
+    "iban": "DE56870000000087001500",
+    "isTreuhand": false,
+    "containsAccountId": false
+  },
+  {
     "accountName": "Deutsche Bank AG",
     "recipientName": "Deutsche Bank AG",
     "iban": "DE57360700240115006900",

@@ -93,6 +93,13 @@
   {
     "accountName": "IKANO Kreditkarte",
     "recipientName": "Ikano Bank AG",
+    "iban": "DE51512106004110049279",
+    "isTreuhand": false,
+    "containsAccountId": false
+  },
+  {
+    "accountName": "IKANO CashBorgen",
+    "recipientName": "Ikano Bank AG",
     "iban": "DE59512106004210049054",
     "isTreuhand": false,
     "containsAccountId": false

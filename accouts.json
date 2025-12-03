@@ -14,6 +14,13 @@
     "containsAccountId": false
   },
   {
+    "accountName": "Bank Deutsches Kraftfahrzeuggewerbe",
+    "recipientName": "Bank Deutsches Kraftfahrzeuggewerbe",
+    "iban": "DE30200700000061331500",
+    "isTreuhand": false,
+    "containsAccountId": false
+  },
+  {
     "accountName": "Landesjustizkasse Chemnitz",
     "recipientName": "Landesjustizkasse Chemnitz",
     "iban": "DE56870000000087001500",

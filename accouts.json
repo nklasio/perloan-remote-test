@@ -21,6 +21,13 @@
     "containsAccountId": false
   },
   {
+    "accountName": "SIGMA Kreditbank AG",
+    "recipientName": "SIGMA Kreditbank AG",
+    "iban": "DE38600501010004512879",
+    "isTreuhand": false,
+    "containsAccountId": false
+  },
+  {
     "accountName": "Deutsche Bank AG",
     "recipientName": "Deutsche Bank AG",
     "iban": "DE57360700240115006900",

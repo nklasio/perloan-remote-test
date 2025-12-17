@@ -42,6 +42,13 @@
     "containsAccountId": false
   },
   {
+    "accountName": "Zentrale Zahlstelle Justiz",
+    "recipientName": "Zentrale Zahlstelle Justiz",
+    "iban": "DE84440000000041001509",
+    "isTreuhand": false,
+    "containsAccountId": false
+  },
+  {
     "accountName": "Payback Visa BW Bank",
     "recipientName": "BW Bank Kartenservice",
     "iban": "DE61600501010002785574",

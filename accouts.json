@@ -4,7 +4,8 @@
     "recipientName": "BNP Paribas Niederlassung Deutschland",
     "iban": "DE23512106000110592052",
     "isTreuhand": false,
-    "containsAccountId": false
+    "containsAccountId": false,
+    "customFormat": "Ablösung eigen VERTRAGSNUMMER {debtorName} / {kp}"
   },
   {
     "accountName": "BNP Paribas Niederlassung Deutschland",
